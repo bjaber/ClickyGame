@@ -1,0 +1,11 @@
+.scoreboard{
+
+  margin-bottom:25px;
+  background-color: blue;
+}
+.col-right{
+  text-align: right;
+}
+.col-left{
+  text-align: left;
+}
